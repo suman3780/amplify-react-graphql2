@@ -1,0 +1,12 @@
+{
+  "resourceName": "vspstore",
+  "policyUUID": "707b8b70",
+  "bucketName": "vspamplifyreactgraphql",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "READ"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
